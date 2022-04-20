@@ -1,6 +1,6 @@
 # Oddle RN Challenge - Starter Pack
 
-This repo provides snippets and resources that might be useful for completing the [Oddle RN Challenge](https://github.com/oddle-developer/oddle-rn-challenge)
+This repo provides components snippets and resources that might be useful for completing the [Oddle RN Challenge](https://github.com/oddle-developer/oddle-rn-challenge)
 
 ## Directory
 
